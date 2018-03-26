@@ -1,4 +1,4 @@
-# IceFireWebsite
+# IceFireSeries
 ** Website based on advanced angularjs
 ## These are the API resources -
 https://anapioficeandfire.com/Documentation#root
